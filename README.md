@@ -18,7 +18,7 @@ Solving wise, the notations are pretty much the same as a rubik's cube only that
 
 ## First Solve
 My very first solve surprised me. With a very good scrambling, I manged to solve the cube the fastest I've ever solved it.
-<p>
+
 _Date: 12/17/20_
  <p>
 _Time: 50.43s_
