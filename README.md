@@ -12,3 +12,5 @@ The Pyraminx, also known as the triangle Rubik's Cube is a tetrahedron-shaped 3-
 
 <p> Solving wise, the notations are pretty much the same as a rubik's cube only that there are less that you need because it's pretty limiting and all in all, easier to solve. Here is an example of the notation, where _CAPITAL_ letter = full *corner* solve, _lower_ letter = *small corner* turn, and finally _'_ = *prime* (meaning counter-clockwise). </p>
   
+
+*This text will be italic*
