@@ -7,5 +7,5 @@ I am familiar with solving the pyraminx so I do have some experience to get me s
  </p>
 
 ## What I'm solving:
-<img src = "https://cdn11.bigcommerce.com/s-do0ookap9x/images/stencil/1280x1280/products/4977/6159/apifa4nbe__19135.1504678213.jpg?c=2&imbypass=on">
+<img src = "https://image.pushauction.com/0/0/949ba4dc-aece-4bfc-af6a-f97512bffb8d/4068b28d-6355-4b8d-a75c-5bc7f49a7f1a.jpg">
   
