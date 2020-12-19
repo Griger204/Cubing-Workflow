@@ -20,6 +20,6 @@ Solving wise, the notations are pretty much the same as a rubik's cube only that
 My very first solve surprised me. With a very good scrambling, I manged to solve the cube the fastest I've ever solved it.
 
 _Date: 12/17/20_
- <p>
+
 _Time: 50.43s_
  <img src = "https://media.discordapp.net/attachments/739115079336853504/789991673449938975/unknown.png?width=1200&height=240">
