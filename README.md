@@ -23,3 +23,11 @@ _Date: 12/17/20_
 
 _Time: 50.43s_
  <img src = "https://media.discordapp.net/attachments/739115079336853504/789991673449938975/unknown.png?width=1200&height=240">
+ 
+ ## Second Solve
+My second solve took a couple seconds longer than the first because I accidentaly made a wrong turn. Nonetheless, I managed to undo it still, with a very good time.
+
+_Date: 12/17/20_
+
+_Time: 52.12s_
+ <img src = "https://media.discordapp.net/attachments/739115079336853504/789994821434605578/unknown.png?width=1200&height=230">
