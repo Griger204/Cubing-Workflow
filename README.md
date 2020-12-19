@@ -16,8 +16,8 @@ Solving wise, the notations are pretty much the same as a rubik's cube only that
 <img src = "https://lh3.googleusercontent.com/proxy/eJ0ULE571Qrbu_mDeexHR0IHply73Bi00DgI9Iz1fvBlofp405wUGcIs7PlGNjPu1afJX4Tkf8dMMWF_JDjbmLmOTsGmZFutVPVqCUYU">
 <img src = "https://ruwix.com/pics/puzzles/pyraminx/solving-last-layer-pyraminx-algorithm.jpg">
 
-##First Solve
-<p> My very first solve surprised me. With a very good scrambling, I manged to solve the cube the fastest I've ever solved it.
+## First Solve
+<p> My very first solve surprised me. With a very good scrambling, I manged to solve the cube the fastest I've ever solved it.</p>
  _Date: 12/17/20_
  _Time: 50.43s_
  <img src = "https://media.discordapp.net/attachments/739115079336853504/789991673449938975/unknown.png?width=1200&height=240">
