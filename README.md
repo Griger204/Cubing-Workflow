@@ -14,3 +14,4 @@ The Pyraminx, also known as the triangle Rubik's Cube is a tetrahedron-shaped 3-
 Solving wise, the notations are pretty much the same as a rubik's cube only that there are less that you need because it's pretty limiting and all in all, easier to solve. Here is an example of some of the notations:
 </p>
 <img src = "https://lh3.googleusercontent.com/proxy/eJ0ULE571Qrbu_mDeexHR0IHply73Bi00DgI9Iz1fvBlofp405wUGcIs7PlGNjPu1afJX4Tkf8dMMWF_JDjbmLmOTsGmZFutVPVqCUYU">
+<img src = "https://ruwix.com/pics/puzzles/pyraminx/solving-last-layer-pyraminx-algorithm.jpg">
