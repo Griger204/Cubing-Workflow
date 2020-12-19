@@ -9,7 +9,7 @@ I am familiar with solving the pyraminx so I do have some experience to get me s
 ## What I'm solving:
 <img src = "https://image.pushauction.com/0/0/949ba4dc-aece-4bfc-af6a-f97512bffb8d/4068b28d-6355-4b8d-a75c-5bc7f49a7f1a.jpg">
 The Pyraminx, also known as the triangle Rubik's Cube is a tetrahedron-shaped 3-layered twisty puzzle, having four triangular faces which are all divided into nine identical smaller triangles. This is the second best selling puzzle toy in the World after the Rubik's Cube with over 100 million pieces sold.
-
+<p>
 Solving wise, the notations are pretty much the same as a rubik's cube only that there are less that you need because it's pretty limiting and all in all, easier to solve. Here is an example of some of the notations:
-  
+ </p>
 <img src = "https://lh3.googleusercontent.com/proxy/eJ0ULE571Qrbu_mDeexHR0IHply73Bi00DgI9Iz1fvBlofp405wUGcIs7PlGNjPu1afJX4Tkf8dMMWF_JDjbmLmOTsGmZFutVPVqCUYU">
