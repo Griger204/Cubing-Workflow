@@ -19,25 +19,25 @@ Solving wise, the notations are pretty much the same as a rubik's cube only that
 ## First Solve
 My very first solve surprised me. With a very good scrambling, I manged to solve the cube in one of the fastest times I've solved it since I started practicing.
 
-_Date: 12/18/20_
+<b>Date: 12/18/20</b>
 
-_Time: 50.43s_
+<b>Time: 50.43s</b>
  <img src = "https://media.discordapp.net/attachments/739115079336853504/789991673449938975/unknown.png?width=1200&height=240">
  
  ## Second Solve
 My second solve took a couple seconds longer than the first because I accidentaly made a wrong turn. Nonetheless, I managed to undo it still, with a very good time.
 
-_Date: 12/18/20_
+<b>Date: 12/18/20</b>
 
-_Time: 52.12s_
+<b>Time: 52.12s</b>
  <img src = "https://media.discordapp.net/attachments/739115079336853504/789994821434605578/unknown.png?width=1200&height=230">
  
  ## Third Solve
 With almost a 10s difference between my first and last solve, I solved the pyraminx in _40 seconds_! After my second attempt, I knew I needed some more practice so I took 20 minutes to go over my technique before I did my "official" timing.
 
-_Date: 12/18/20_
+<b>Date: 12/18/20</b>
 
-_Time: 40.87s_
+<b>Time: 40.87s</b>
  <img src = "https://media.discordapp.net/attachments/739115079336853504/789995429030002698/unknown.png?width=1200&height=217">
  
  ## Post-solving thoughts
