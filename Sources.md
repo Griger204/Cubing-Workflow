@@ -7,7 +7,7 @@
 <p>
  I didn't use all these videos specificaly but they were used for reference
  </p>
- [SolveVid](https://www.youtube.com/watch?v=2H0FUvaaUsI)
+[SolveVid](https://www.youtube.com/watch?v=2H0FUvaaUsI)
 <p>
 [SolveVid2](https://www.youtube.com/watch?v=Vi8MCrybpj4)
 </p>
