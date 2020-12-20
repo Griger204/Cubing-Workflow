@@ -42,4 +42,4 @@ _Time: 40.87s_
  
  ## Post-solving thoughts
  <p>
-To sum up my trials, I improved a lot! This prossess took quiet a bit of time mainly due to practicing. Beating or matching this time isn't going to be easy but with more practice and engagement, I can make 40s a _bad_ solve.
+To sum up my trials, I improved a lot! This prossess took quiet a bit of time mainly due to practicing. Beating or matching this time isn't going to be easy but with more practice and engagement, I can make 40s a <b>bad</b> solve.
