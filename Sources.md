@@ -4,9 +4,7 @@
 [Timer](https://ruwix.com/online-rubiks-stopwatch-timer/)
 
 ### These are the videos used to learn how to solve:
-###### 1.
-[video]:(https://www.youtube.com/watch?v=2H0FUvaaUsI)
-###### 2.
+[video](https://www.youtube.com/watch?v=2H0FUvaaUsI)
 [video2](https://www.youtube.com/watch?v=Vi8MCrybpj4)
 
 ### Algorithm sheet
