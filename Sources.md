@@ -6,11 +6,9 @@
 ### These are the videos used to learn how to solve:
 <p>
  I didn't use all these videos specificaly but they were used for reference
- </p>
 [SolveVid]:(https://www.youtube.com/watch?v=2H0FUvaaUsI)
 <p>
 [SolveVid2](https://www.youtube.com/watch?v=Vi8MCrybpj4)
-</p>
 
 ### Algorithm sheet
 [BEN’S PYRAMINX SHEET](https://solve-that-cube.weebly.com/uploads/8/6/6/0/86607378/bens_pyraminx_sheet.pdf)
