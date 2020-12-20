@@ -41,4 +41,4 @@ _Time: 40.87s_
  <img src = "https://media.discordapp.net/attachments/739115079336853504/789995429030002698/unknown.png?width=1200&height=217">
  
  ##Post-solving thoughts
- <p>To sum up my trials, I improved a lot! This prossess took quiet a bit of time mainly due to practicing. Beating or matching this time isn't going to be easy but with more practice and engagement, I can make 40s a _bad_ solve.
+ <p>To sum up my trials, I improved a lot! This prossess took quiet a bit of time mainly due to practicing. Beating or matching this time isn't going to be easy but with more practice and engagement, I can make 40s a *bad* solve.
